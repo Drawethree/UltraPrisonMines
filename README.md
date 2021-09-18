@@ -10,6 +10,7 @@
 * [Home](https://github.com/Drawethree/UltraPrisonMines/wiki)
 * [Features](https://github.com/Drawethree/UltraPrisonMines/wiki/Features)
 * [Setup](https://github.com/Drawethree/UltraPrisonMines/wiki/Setup)
+* [Migrating from other plugins](https://github.com/Drawethree/UltraPrisonMines/wiki/Migration)
 * [Commands & Permissions](https://github.com/Drawethree/UltraPrisonMines/wiki/Commands-&-Permissions)
 ### Default Files
 * [_config.yml_](https://github.com/Drawethree/UltraPrisonMines/wiki/config.yml)
