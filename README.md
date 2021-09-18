@@ -21,11 +21,8 @@
 * [Developer API](https://github.com/Drawethree/UltraPrisonMines/wiki/Developer-API)
 
 # Screenshots
-![Image1](https://imgur.com/VeSq3Ok.png)
-![Image2](https://imgur.com/XfWSpTa.gif)
-![Image3](https://imgur.com/7pfDoCb.png)
-![Image4](https://imgur.com/zSzqbSp.gif)
-![Image5](https://imgur.com/o46KFI3.png)
-![Image6](https://imgur.com/JXJETOw.gif)
-![Image7](https://imgur.com/6EysgEx.png)
-![Image8](https://imgur.com/HFFLUi9.gif)
+![Image1](https://imgur.com/0xKwkv2.png)
+![Image2](https://imgur.com/T8SwSat.gif)
+![Image3](https://imgur.com/6jrcQzs.gif)
+![Image4](https://imgur.com/24Yvgpn.gif)
+![Image5](https://imgur.com/iYsswdq.gif)
