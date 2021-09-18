@@ -1,4 +1,4 @@
-![UltraPrisonMines Header](https://imgur.com/eiP6dmn.png)
+![UltraPrisonMines Header](https://drawethree.dev/plugins/ultraprisonmines/graphics/1.png)
 # UltraPrisonMines
 ![Issues](https://img.shields.io/github/issues/Drawethree/UltraPrisonMines?label=Issues&logo=GitHub)
 ![Discord](https://img.shields.io/discord/505846258867372033?label=Discord&logo=Discord)
